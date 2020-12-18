@@ -10,7 +10,7 @@
 
 #### useState
 
-1. [Birthday Reminder](tree/master/1-birthday-reminder)
+1. [Birthday Reminder](1-birthday-reminder)
 
 #### useEffect and Conditional Rendering
 
